@@ -1,0 +1,33 @@
+{
+  "name": "chainforge",
+  "version": "1.0.0",
+  "description": "ChainForge: A powerful Web3 smart contract deployment utility designed to streamline and accelerate the development process.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "node scripts/deploy.js",
+    "clean": "node utilities/del.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRealMasterK/ChainForge.git"
+  },
+  "keywords": [
+    "web3",
+    "smart-contract",
+    "deployment",
+    "ethereum",
+    "blockchain",
+    "utility",
+    "hardhat",
+    "development",
+    "dapp",
+    "toolkit"
+  ],
+  "author": "TheRealMasterK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheRealMasterK/ChainForge/issues"
+  },
+  "homepage": "https://github.com/TheRealMasterK/ChainForge#readme"
+}
