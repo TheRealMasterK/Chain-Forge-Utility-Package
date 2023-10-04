@@ -2,6 +2,9 @@ const fs = require('fs');
 const path = require('path');
 const { ethers, artifacts } = require('hardhat');
 
+
+// make sure to install .env and remember not to commit it
+
 async function main() {
   console.log('Starting contract deployment...');
 
