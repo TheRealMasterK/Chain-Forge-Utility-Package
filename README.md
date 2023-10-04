@@ -47,4 +47,4 @@ Experience the power of **ChainForge** and revolutionize your Web3 development p
 
 I hope this revised documentation captures the essence of "ChainForge" and its time-saving capabilities. If you have any further adjustments or questions, please let me know!
 
-You can email me any questions on kyle@web3dao.digital
+You can email me any questions on Email: kyle@web3dao.digital
